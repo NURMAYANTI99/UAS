@@ -1,7 +1,3 @@
 # UAS
-https://user-images.githubusercontent.com/95558639/148890827-eb053940-53de-4ee0-87ce-87c256cfaad3.mp4
-
-
-https://user-images.githubusercontent.com/95558639/148890854-8587aae5-97b2-4e3c-94ef-35ed79cb0c14.mp4
-
-
+![Bahasa Inggris](https://user-images.githubusercontent.com/95558639/148916900-8b73f096-8e2b-4af3-93d0-2a84b4a13d31.gif)
+![Bahasa Indonesia](https://user-images.githubusercontent.com/95558639/148916942-3432ca75-f21c-419b-9620-346b089759d6.gif)
