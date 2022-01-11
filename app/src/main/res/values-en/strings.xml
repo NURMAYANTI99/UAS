@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ANIMALS</string>
+    <string name="about_us">About Us</string>
+    <string name="galery">List Tiger, Bee and Mouse</string>
+    // Layout
+    <string name="pilih_gambar">(Tap on picture to open gallery)</string>
+    <string name="daftar_ras_judul">List of Breeds</string>
+    <string name="kembali">Back</string>
+    <string name="harimau">Tiger</string>
+    <string name="kumbang">Bee</string>
+    <string name="tikus">Mouse</string>
+    <string name="harimau_list_title">List of Lion Breeds</string>
+    <string name="kumbang_list_title">List of Tiger Breeds</string>
+    <string name="tikus_list_title">List of Tiger Breeds</string>
+    // Profil
+    <string name="profil">Profil</string>
+    <string name="nama">Name : Nurmayanti</string>
+    <string name="nim">NIM : 180201030</string>
+    <string name="ttl">TTL : Serijata, 18 October 1999</string>
+    <string name="prodi">Major : Information System</string>
+    // Data tiger
+    <string name="katanga_nama">Katanga</string>
+    <string name="katanga_asal">Zaire</string>
+    <string name="katanga_deskripsi">This large lion is able to reach a weight of up to 280 kilograms</string>
+    <string name="kongo_nama">Kongo</string>
+    <string name="kongo_asal">Kongo</string>
+    <string name="kongo_deskripsi">Congolese lions are characterized by their lengths ranging from 2.5 meters to or 2.8 meters. In addition, this subspecies of lion can weigh between 150 and 190 kg</string>
+    <string name="transval_nama">Transval</string>
+    <string name="transval_asal">South Africa</string>
+    <string name="transval_deskripsi">This African lion is a variety from the southern part of Africa and is considered the brother of the katanga lion</string>
+    <string name="barbary_nama">Barbary</string>
+    <string name="barbary_asal">Forests of Africa</string>
+    <string name="barbary_deskripsi">This subspecies is one of the largest, characterized by a large and fertile mane</string>
+    <string name="afrika_timur_nama">East Africa</string>
+    <string name="afrika_timur_asal">East Africa</string>
+    <string name="afrika_timur_deskripsi">Its body weight is the same as the lion species in general, which is between 150 to 200 kg</string>
+    <string name="asia_nama">Asia</string>
+    <string name="asia_asal">India</string>
+    <string name="asia_deskripsi">This variety is smaller than other types of lions and has lighter fur, with a reddish mane in males</string>
+    // Data bee
+    <string name="srilanka_nama">Srilanka</string>
+    <string name="srilanka_asal">Srilanka</string>
+    <string name="srilanka_deskripsi">This leopard has brownish yellow or rusty fur with pink color and dark spots</string>
+    <string name="jawa_nama">Jawa</string>
+    <string name="jawa_asal">Jawa, Indonesia</string>
+    <string name="jawa_deskripsi">This leopard is completely black because of its recessive phenotype or has regular spotted fur</string>
+    <string name="indochina_nama">Indochina</string>
+    <string name="indochina_asal">South China and Southeast Asia</string>
+    <string name="indochina_deskripsi">Indochina leopard appears in predominantly black form</string>
+    <string name="amur_nama">Amur</string>
+    <string name="amur_asal">Southeastern Russia and Northeast China</string>
+    <string name="amur_deskripsi">This animal differs from other leopard subspecies in that its thick, freckle-covered fur is suitable for survival in the cold climate in which this leopard lives</string>
+    <string name="cina_utara_nama">North China</string>
+    <string name="cina_utara_asal">North China</string>
+    <string name="cina_utara_deskripsi">This leopard is about the same size as the Amur leopard. But their fur is darker and more orange</string>
+    <string name="persia_nama">Persian</string>
+    <string name="persia_asal">Kaukasus</string>
+    <string name="persia_deskripsi">The largest leopard subspecies and comes from the Caucasus region where its range includes Turkmenistan, Azerbaijan, Iran, and western Afghanistan</string>
+    // Data mouse
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">India</string>
+    <string name="bengal_deskripsi">This tiger has orange fur with white tassels around the ears and black stripes on the back, and it has strong jaws, hind legs and strong front paws</string>
+    <string name="indocina_nama">Indochina</string>
+    <string name="indocina_asal">Indochina</string>
+    <string name="indocina_deskripsi">This Indochina tiger has a smaller body size. It also has a darker fur color</string>
+    <string name="malaya_nama">Malaya</string>
+    <string name="malaya_asal">Peninsular Malaysia</string>
+    <string name="malaya_deskripsi">The Malayan tiger bears many similarities to the Indochina tiger</string>
+    <string name="sumatera_nama">Sumatera</string>
+    <string name="sumatera_asal">Sumatera, Indonesia</string>
+    <string name="sumatera_deskripsi">This tiger belongs to a small tiger. The body size for males reaches 250 centimeters while the female is 198 cm</string>
+    <string name="siberia_nama">Siberia</string>
+    <string name="siberia_asal">Siberia</string>
+    <string name="siberia_deskripsi">The average size length is about 5–7 feet, and some males can reach 10 feet or more. The heaviest on record is 273 kg</string>
+    <string name="cina_selatan_nama">South China</string>
+    <string name="cina_selatan_asal">South China Forest</string>
+    <string name="cina_selatan_deskripsi">The South Chinese tiger is a very rare species. You could say this species is endangered. There are only 30 to 40 left, and all of them are in the zoo</string>
+</resources>

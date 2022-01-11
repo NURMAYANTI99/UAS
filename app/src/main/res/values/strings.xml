@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">HEWAN</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="galery">Jenis Harimau, Kumbang dan Tikus</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="kembali">Kembali</string>
+    <string name="harimau">Harimau</string>`
+    <string name="kumbang">Kumbang</string>
+    <string name="tikus">Tikus</string>
+    <string name="harimau_list_title">Daftar Ras Harimau</string>
+    <string name="kumbang_list_title">Daftar Ras Kumbang</string>
+    <string name="tikus_list_title">Daftar Ras Tikus</string>
+    // Profil
+    <string name="profil">Profil</string>
+    <string name="nama">Nama : Nurmayanti</string>
+    <string name="nim">NIM : 180201030</string>
+    <string name="ttl">TTL : Serijata, 18 Oktober 1999</string>
+    <string name="prodi">Prodi : Sistem Informasi</string>
+    // Data hariamu
+    <string name="katanga_nama">Katanga</string>
+    <string name="katanga_asal">Zaire</string>
+    <string name="katanga_deskripsi">Singa besar ini mampu mencapai berat hingga 280 kilogram</string>
+    <string name="kongo_nama">Kongo</string>
+    <string name="kongo_asal">Kongo</string>
+    <string name="kongo_deskripsi">Singa Kongo dicirikan oleh panjangnya yang berkisar antara 2,5 meter sampai atau 2,8 meter. Selain itu, subspesies singa ini dapat memiliki berat antara 150 dan 190 kg</string>
+    <string name="transval_nama">Transval</string>
+    <string name="transval_asal">Afrika Selatan</string>
+    <string name="transval_deskripsi">Singa Afrika ini adalah varietas dari bagian selatan Afrika dan dianggap sebagai saudara singa Katanga</string>
+    <string name="barbary_nama">Barbary</string>
+    <string name="barbary_asal">Hutan Afrika</string>
+    <string name="barbary_deskripsi">Subspesies ini merupakan salah satu yang terbesar, ditandai dengan surai besar dan suburnya</string>
+    <string name="afrika_timur_nama">Afrika Timur</string>
+    <string name="afrika_timur_asal">Afrika Timur</string>
+    <string name="afrika_timur_deskripsi">Bobot tubuhnya sama dengan spesies singa pada umumnya, yaitu antara 150 hingga 200 kg</string>
+    <string name="asia_nama">Asia</string>
+    <string name="asia_asal">India</string>
+    <string name="asia_deskripsi">Varietas ini lebih kecil dari jenis singa lainnya dan memiliki bulu yang lebih terang, dengan surai kemerahan pada pejantan</string>
+    // Data kumbang
+    <string name="srilanka_nama">Srilanka</string>
+    <string name="srilanka_asal">Srilanka</string>
+    <string name="srilanka_deskripsi">Macan tutul ini memiliki bulu kuning kecoklatan atau berkarat dengan warna merah jambu dan bintik-bintik gelap</string>
+    <string name="jawa_nama">Jawa</string>
+    <string name="jawa_asal">Jawa, Indonesia</string>
+    <string name="jawa_deskripsi">Macan tutul ini benar-benar hitam karena fenotipe resesif atau memiliki bulu berbintik biasa</string>
+    <string name="indochina_nama">Indochina</string>
+    <string name="indochina_asal">Cina Selatan dan Asia Tenggara</string>
+    <string name="indochina_deskripsi">Macan tutul Indochina muncul dalam bentuk yang didominasi warna hitam</string>
+    <string name="amur_nama">Amur</string>
+    <string name="amur_asal">Tenggara Rusia dan Timur Laut Cina</string>
+    <string name="amur_deskripsi">Hewan ini berbeda dari subspesies macan tutul lainnya karena bulunya yang tebal dan tertutup bintik yang cocok untuk bertahan hidup di iklim dingin tempat macan tutul ini hidup</string>
+    <string name="cina_utara_nama">Cina Utara</string>
+    <string name="cina_utara_asal">Tiongkok Utara</string>
+    <string name="cina_utara_deskripsi">Macan tutul ini berukuran kira-kira sama dengan macan tutul Amur. Namun bulu mereka lebih gelap dan lebih berwarna orange</string>
+    <string name="persia_nama">Persia</string>
+    <string name="persia_asal">Kaukasus</string>
+    <string name="persia_deskripsi">Subspesies macan tutul terbesar dan berasal dari wilayah Kaukasus di mana jangkauannya meliputi Turkmenistan, Azerbaijan, Iran, dan Afghanistan barat</string>
+    // Data tikus
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">India</string>
+    <string name="bengal_deskripsi">Harimau ini memiliki bulu oranye dengan jumbai putih di sekitar telinga dan garis-garis hitam di bagian belakang, dan ia memiliki rahang yang kuat, kaki belakang dan cakar depan kuat</string>
+    <string name="indocina_nama">Indochina</string>
+    <string name="indocina_asal">Indochina</string>
+    <string name="indocina_deskripsi">Harimau Indocina ini memiliki ukuran tubuh yang lebih kecil. Selain itu juga memiliki warna bulu yang lebih gelap</string>
+    <string name="malaya_nama">Malaya</string>
+    <string name="malaya_asal">Semenanjung Malaysia</string>
+    <string name="malaya_deskripsi">Harimau Malaya memiliki banyak kemiripan dengan harimau Indochina</string>
+    <string name="sumatera_nama">Sumatera</string>
+    <string name="sumatera_asal">Sumatera, Indonesia</string>
+    <string name="sumatera_deskripsi">Harimau ini termasuk ke dalam harimau yang berukuran kecil. Ukuran tubuhnya untuk jantan mencapai 250 centimeter  sedangkan betina 198 cm</string>
+    <string name="siberia_nama">Siberia</string>
+    <string name="siberia_asal">Siberia</string>
+    <string name="siberia_deskripsi">Panjang ukuran rata-ratanya sekitar 5 – 7 kaki, dan beberapa jantan bisa mencapai 10 kaki atau lebih. Yang terberat dalam catatan adalah 273Kg</string>
+    <string name="cina_selatan_nama">Cina Selatan</string>
+    <string name="cina_selatan_asal">Hutan Cina Selatan</string>
+    <string name="cina_selatan_deskripsi">Harimau Cina Selatan adalah spesies yang sangat langka. Bisa dibilang spesies ini terancam punah. Hanya tersisa 30 – 40 ekor, dan semuanya ada di kebun binatang</string>
+</resources>
